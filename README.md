@@ -1,11 +1,11 @@
 # tp2_redes
 DHCP configuracion
 ---
-##Integrantes
+## Integrantes
 - Isabella Murioni
 - Lucia Saint Martin
 ---
-##Implementación:
+## Implementación:
 
 1. Primero instalamos packet tracer en nuestro pendrive booteable con Linux y una vez instalado, armamos la red: con 1 router, 1 switch y 2 PCs.
 
